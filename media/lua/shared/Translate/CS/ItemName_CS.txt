@@ -1,4 +1,4 @@
 ItemName_CS = {
-	ItemName_Ladders.SteelLader = "Steel Ladder",
-	ItemName_Ladders.WoodenLader = "Wodden Ladder",
+	ItemName_Ladders.SteelLader = "Ocelový žebřík",
+	ItemName_Ladders.WoodenLader = "Dřevěný žebřík",
 }
